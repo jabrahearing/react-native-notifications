@@ -1,5 +1,5 @@
 {
-  "name": "@livelyhearing/react-native-notifications",
+  "name": "@jabrahearing/react-native-notifications",
   "version": "4.1.9",
   "description": "Advanced Push Notifications (Silent, interactive notifications) for iOS & Android",
   "author": "Lidan Hifi <lidan.hifi@gmail.com>",
@@ -78,11 +78,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/livelyhearing/react-native-notifications.git"
+    "url": "https://github.com/jabrahearing/react-native-notifications.git"
   },
-  "homepage": "https://github.com/livelyhearing/react-native-notifications",
+  "homepage": "https://github.com/jabrahearing/react-native-notifications",
   "bugs": {
-    "url": "https://github.com/livelyhearing/react-native-notifications/issues"
+    "url": "https://github.com/jabrahearing/react-native-notifications/issues"
   },
   "detox": {
     "test-runner": "jest",
